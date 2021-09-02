@@ -1,7 +1,9 @@
+- (>‿◠)✌
+- 
 - 👋 Hi, I’m Karolina, nice to meet You :)
 - 👀 I’m interested in Machine learning, robotics and new technologies
-- 🌱 I’m currently learning OpenCV library
-- 💞️ I’m looking to collaborate on projects related mainly to Computer Vision and data Science
+- 🌱 I’m currently learning OpenCV library 🔥
+- 💞️ I’m looking to collaborate on projects related mainly to Machine learning  👾
 - 📫 How to reach me -> karolinasiwkowska@tuta.io
 
 <!---
